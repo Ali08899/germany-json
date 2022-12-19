@@ -28,8 +28,8 @@
         "SA_Name": "Germany"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": 
+        "type": "MultiPolygon",
+        "coordinates": [
           [
             [
               [
