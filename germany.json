@@ -28,7 +28,7 @@
         "SA_Name": "Germany"
       },
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Polygon",
         "coordinates": [
           [[[-147, 2], [-150, 70], [-20, 68], [-31, 5], [-147, 2]],
             [
