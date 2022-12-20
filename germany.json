@@ -4,8 +4,28 @@
     {
       "type": "Feature",
       "properties": {
+        "SA_SLA_Link_Id": 80,
+        "DA_Id": 80,
         "Name": "Germany",
         "OBJECTID": 629,
+        "CivilUnrest": 3,
+        "Country_Short_Name": "Germany",
+        "SLA_Name": "Germany",
+        "Crime": 3,
+        "stroke": "#ffffff",
+        "Country_Code": "GER",
+        "Terrorism": 3,
+        "Hazards": 1,
+        "DA_Name": "Germany",
+        "fill": "#ADFF2F",
+        "DA_SA_Link_Id": 80,
+        "OBJECTID_1": 544,
+        "SA_Id": 80,
+        "SLA_Id": 80,
+        "IngestionDate": "2017-11-09",
+        "ArmedConflict": 1,
+        "Security_Level": 2,
+        "SA_Name": "Germany"
       },
       "geometry": {
         "type": "Polygon",
